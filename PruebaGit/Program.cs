@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("PRUEBA 2 DE GIT");
+            Console.WriteLine("PRUEBA 2 DE GIT otra vez");
         }
     }
 }
