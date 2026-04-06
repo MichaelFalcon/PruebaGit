@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus Tuf F16\\Desktop\\Michael\\UNIVERSIDAD\\Quinto Semestre\\Desarrollo web\\Tecnologias desarrollo web\\PruebaGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E43F890-0CF5-43FC-9247-2A4DD2F9016C}|PruebaGit\\PruebaGit.csproj|c:\\users\\asus tuf f16\\desktop\\michael\\universidad\\quinto semestre\\desarrollo web\\tecnologias desarrollo web\\pruebagit\\pruebagit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E43F890-0CF5-43FC-9247-2A4DD2F9016C}|PruebaGit\\PruebaGit.csproj|solutionrelative:pruebagit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus Tuf F16\\Desktop\\Michael\\UNIVERSIDAD\\Quinto Semestre\\Desarrollo web\\Tecnologias desarrollo web\\PruebaGit\\PruebaGit\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaGit\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus Tuf F16\\Desktop\\Michael\\UNIVERSIDAD\\Quinto Semestre\\Desarrollo web\\Tecnologias desarrollo web\\PruebaGit\\PruebaGit\\Program.cs",
+              "RelativeToolTip": "PruebaGit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T00:10:37.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
